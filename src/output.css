@@ -233,11 +233,17 @@
   .mt-\[30px\] {
     margin-top: 30px;
   }
+  .mt-\[40px\] {
+    margin-top: 40px;
+  }
   .mt-\[50\] {
     margin-top: 50;
   }
   .mt-\[50px\] {
     margin-top: 50px;
+  }
+  .mt-\[100\] {
+    margin-top: 100;
   }
   .mt-\[100px\] {
     margin-top: 100px;
@@ -398,6 +404,9 @@
   .w-\[600px\] {
     width: 600px;
   }
+  .w-\[680px\] {
+    width: 680px;
+  }
   .w-\[700px\] {
     width: 700px;
   }
@@ -454,6 +463,9 @@
   }
   .gap-\[30px\] {
     gap: 30px;
+  }
+  .gap-\[50px\] {
+    gap: 50px;
   }
   .gap-\[70px\] {
     gap: 70px;
