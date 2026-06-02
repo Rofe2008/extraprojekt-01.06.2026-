@@ -383,6 +383,9 @@
   .w-\[330px\] {
     width: 330px;
   }
+  .w-\[370px\] {
+    width: 370px;
+  }
   .w-\[380px\] {
     width: 380px;
   }
@@ -694,6 +697,11 @@
   .lg\:flex {
     @media (width >= 64rem) {
       display: flex;
+    }
+  }
+  .lg\:w-\[600px\] {
+    @media (width >= 64rem) {
+      width: 600px;
     }
   }
   .lg\:justify-around {
