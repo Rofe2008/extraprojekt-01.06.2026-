@@ -188,6 +188,9 @@
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
+  .mt-\[-00px\] {
+    margin-top: -00px;
+  }
   .mt-\[-10px\] {
     margin-top: -10px;
   }
@@ -205,6 +208,9 @@
   }
   .mt-\[-40px\] {
     margin-top: -40px;
+  }
+  .mt-\[-100px\] {
+    margin-top: -100px;
   }
   .mt-\[-200px\] {
     margin-top: -200px;
@@ -256,6 +262,15 @@
   }
   .ml-\[-60px\] {
     margin-left: -60px;
+  }
+  .ml-\[-100px\] {
+    margin-left: -100px;
+  }
+  .ml-\[-400px\] {
+    margin-left: -400px;
+  }
+  .ml-\[-500px\] {
+    margin-left: -500px;
   }
   .ml-\[-\] {
     margin-left: -;
@@ -347,8 +362,14 @@
   .w-\[2\] {
     width: 2;
   }
+  .w-\[4\] {
+    width: 4;
+  }
   .w-\[20px\] {
     width: 20px;
+  }
+  .w-\[30\] {
+    width: 30;
   }
   .w-\[50px\] {
     width: 50px;
